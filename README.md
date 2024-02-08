@@ -11,7 +11,7 @@ I am a highly motivated professional with over 13 years of experience in the fie
 
 ## 💻 Technical Skills
 - **Front-end Development**: React.js, HTML5, CSS3, JavaScript
-- **Back-end Development**: Node.js, Express.js, MongoDB
+- **Back-end Development**: Node.js, Express.js, MongoDB, PostgreSQL, & MSSQL 
 - **Version Control**: Git
 
 ## 📧 Contact Information
