@@ -101,11 +101,6 @@ of clients and users.
 
  </p>
 
-## Contact Information 📧
-
-- Email: [Your Email Address]
-- LinkedIn: [Link to your LinkedIn profile]
-- Portfolio: [Link to your portfolio website, if available]
 
 ## Contact Information 📧
 
